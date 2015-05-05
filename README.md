@@ -4,7 +4,7 @@ ionic 集成 jpush(极光推送)示例程序
 具体讲解部分文档在[这里](http://ionichina.com/topic/54fab88b7b505d9b1b5573a6)
 
 
-Ionic 集成 jpush(极光)推送之 IOS 篇
+## Ionic 集成 jpush(极光)推送之 IOS 篇
 
 极光推送官方版的 phonegap 插件在这里。
 由于官方版插件 ios 版暂时没有打开通知的方法，所以在官方基础上修改了下，修改后的插件放在了这里，下面说明以修改后的插件为准。（感谢极光官方大神viper耐心帮助，同时也参考了下@lanceli大神的cnodejs-ionic项目）
